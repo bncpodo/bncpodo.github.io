@@ -1,0 +1,104 @@
+@font-face {
+    font-family: Roboto;
+    src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: Roboto;
+    overflow-x: hidden;
+}
+
+header {
+    width: 100vw;
+    height: 75vh;
+    background-color: #073B4C;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    padding-top: 5vh;
+    width: 100vw;
+}
+#aNav{
+    text-decoration: none;
+    color: white;
+    padding-left: 5vw;
+}
+
+.navScroll {
+    background: #073B4C;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    opacity: 85%;
+}
+
+.aList {
+    color: white;
+    position: relative;
+    padding-left: 5vw;
+
+}
+
+ul {
+    display: flex;
+    position: relative;
+    padding-right: 5vw;
+}
+
+li {
+    position: relative;
+}
+
+#divtop {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 25vh;
+}
+button {
+    padding: 10px 30px;
+    border-radius: 30px;
+    margin-top: 50px;
+    background-color: #EF476F;
+    border: none;
+}
+#aBtn{
+    color: white;
+    
+
+}
+
+main {
+    text-align: center;
+    padding-top: 50px;
+    padding-left:15vw ;
+    padding-right: 15vw;
+}
+#h2apropos{
+    padding-bottom: 50px;
+}
+footer{
+    margin-top: 50px;
+    width: 100vw;
+    height: 50vh;
+    background-color: #06D6A0;
+}
+#h2contact{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+#divfoot{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
