@@ -85,6 +85,9 @@ main {
     padding-left:30vw ;
     padding-right: 30vw;
 }
+p{
+    font-size: 20px;
+}
 #h2apropos{
     padding-bottom: 50px;
 }
