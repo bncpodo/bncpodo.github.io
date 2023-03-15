@@ -63,6 +63,8 @@ h1 {
     color: white;
     text-align: center;
     padding-top: 25vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 button {
     padding: 10px 30px;
