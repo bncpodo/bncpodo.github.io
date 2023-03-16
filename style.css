@@ -84,6 +84,9 @@ main {
     padding-top: 50px;
     padding-left:30vw ;
     padding-right: 30vw;
+    background-image: url(./assets/img/icon/bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 p{
     font-size: 20px;
