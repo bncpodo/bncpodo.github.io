@@ -15,7 +15,8 @@
 header {
     width: 100vw;
     height: 75vh;
-    background-color: #073B4C;
+    background-image: url(./assets/img/icon/bg1.png);
+    background-size: cover;
 }
 
 nav {
