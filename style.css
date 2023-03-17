@@ -98,7 +98,7 @@ p{
 footer{
     margin-top: 50px;
     width: 100vw;
-    height: 50vh;
+    height: 40vh;
     background-color: #06D6A0;
 }
 #h2contact{
@@ -109,5 +109,5 @@ footer{
 #divfoot{
     display: flex;
     justify-content: space-around;
-    padding-top: 70px;
+    padding-top: 50px;
 }
