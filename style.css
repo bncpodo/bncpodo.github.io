@@ -74,6 +74,10 @@ button {
     background-color: #EF476F;
     border: none;
 }
+button:hover{
+    transform: scale(1.01);
+    
+}
 #aBtn{
     color: white;
     
